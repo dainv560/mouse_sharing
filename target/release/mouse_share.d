@@ -1,0 +1,1 @@
+D:\Workspaces\RUST\mouse_share\target\release\mouse_share.exe: D:\Workspaces\RUST\mouse_share\src\client.rs D:\Workspaces\RUST\mouse_share\src\clipboard.rs D:\Workspaces\RUST\mouse_share\src\gui.rs D:\Workspaces\RUST\mouse_share\src\input.rs D:\Workspaces\RUST\mouse_share\src\main.rs D:\Workspaces\RUST\mouse_share\src\protocol.rs D:\Workspaces\RUST\mouse_share\src\server.rs

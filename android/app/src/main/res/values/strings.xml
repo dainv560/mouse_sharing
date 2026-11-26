@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mouse Share</string>
+    <string name="accessibility_desc">Dịch vụ cho phép điều khiển chuột và bàn phím từ máy tính PC qua mạng LAN.</string>
+</resources>
